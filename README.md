@@ -48,7 +48,7 @@ Here is a video demonstrating the functionality of the application:
 https://user-images.githubusercontent.com/90430093/221305056-f38cc4f7-1236-4a4d-9280-70dd157582d5.mp4
 
 ## Credits
-The majority of code including the POST and PUT routes in api/product-routes was written by @Xandromus (Xander Rapstine), while the GET all, GET one and DELETE routes in the same file were contributed by Sephadeus (JP Labadia) along with the GET all, GET one, POST, PUT, and DELETE routes in the other api/*-route files.
+The majority of code including the POST and PUT routes in api/product-routes was written by @Xandromus (Xander Rapstine) and @Dependabot, while the GET all, GET one and DELETE routes in the same file were contributed by Sephadeus (JP Labadia) along with the GET all, GET one, POST, PUT, and DELETE routes in the other api/*-route files.
 
 ## License
 This project has no license and was completed for educational purposes.
