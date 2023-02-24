@@ -3,14 +3,14 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Usage and Installation](#usage and installation)
+- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
 ## Description
 This application simulates the backend of an e-commerce type store using MySQL, Node, Express, and Sequelize packages. It also uses Insomnia to test routes.
 
-## Usage and Installation
+## Usage
 Clone the repository from github here -->
 
 First, navigate to the project directory.
