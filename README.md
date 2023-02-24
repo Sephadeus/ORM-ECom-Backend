@@ -11,9 +11,12 @@
 This application simulates the backend of an e-commerce type store using MySQL, Node, Express, and Sequelize packages. It also uses Insomnia to test routes.
 
 ## Usage
-Clone the repository from github here -->
+Clone the repository from github here --> https://github.com/Sephadeus/ORM-ECom-Backend
 
-First, navigate to the project directory.
+Then, navigate to the project directory and install dependencies:
+```
+npm install
+```
 
 Next, connect to MySQL using:
 ```
