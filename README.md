@@ -1,9 +1,16 @@
 # ORM-ECom-Backend
 
+## Table of Contents
+
+- [Description](#description)
+- [Usage and Installation](#usage and installation)
+- [Credits](#credits)
+- [License](#license)
+
 ## Description
 This application simulates the backend of an e-commerce type store using MySQL, Node, Express, and Sequelize packages. It also uses Insomnia to test routes.
 
-## Usage
+## Usage and Installation
 Clone the repository from github here -->
 
 First, navigate to the project directory.
@@ -39,3 +46,6 @@ https://user-images.githubusercontent.com/90430093/221305056-f38cc4f7-1236-4a4d-
 
 ## Credits
 The majority of code including the POST and PUT routes in api/product-routes was written by @Xandromus (Xander Rapstine), while the GET all, GET one and DELETE routes in the same file were contributed by Sephadeus (JP Labadia) along with the GET all, GET one, POST, PUT, and DELETE routes in the other api/*-route files.
+
+## License
+This project has no license and was completed for educational purposes.
